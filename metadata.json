@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Lumina Diş Kliniği",
+  "description": "Daha parlak ve sağlıklı bir gülümseme için premium diş bakımı. İmplant, estetik diş hekimliği ve ortodonti uzmanlığı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
